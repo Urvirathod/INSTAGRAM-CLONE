@@ -1,0 +1,8 @@
+GET  http://localhost:5000/myposts
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDhhNmVmOWYwNDUwNjNkZDBjYzY5YWMiLCJpYXQiOjE2MTk2ODUxMzd9.Yw_kjjA73NvyVVxKCxdfZW6jLnLdMivOxZ3myjyz3Jc
+Content-Type: application/json
+
+# {
+#     "title":"harshit title",
+#     "body":"harshit body"
+# }
